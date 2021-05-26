@@ -33,7 +33,6 @@ const Menu=()=>{
     </div>
   )
 }
-
 function App() {
   return(
   <div className="container-fluid">    
